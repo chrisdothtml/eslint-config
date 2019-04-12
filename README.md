@@ -4,7 +4,7 @@
 
 ## Setup
 
-#### 1. `yarn add --dev eslint @chrisdothtml/eslint-config`
+#### 1. `yarn add --dev eslint prettier @chrisdothtml/eslint-config`
 
 #### 2. Add config
 
