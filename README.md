@@ -4,9 +4,13 @@
 
 ## Setup
 
-#### 1. `yarn add --dev eslint prettier @chrisdothtml/eslint-config`
+#### 1. Install
 
-#### 2. Add config
+```sh
+yarn add --dev eslint prettier @chrisdothtml/eslint-config
+```
+
+#### 2. Use
 
 **.eslintrc**
 
