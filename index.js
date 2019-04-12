@@ -23,5 +23,21 @@ module.exports = {
     'react-hooks/rules-of-hooks': 'error',
     'react/jsx-uses-vars': 'error',
     'react/jsx-uses-react': 'error',
+    // TODO: change to 'always' if prettier/prettier#3845 is resolved
+    'space-before-function-paren': ['error', {
+      'anonymous': 'never',
+      'named': 'never',
+      'asyncArrow': 'always',
+    }],
+    'prettier/prettier': [
+      'error',
+      {
+        arrowParens: 'always',
+        jsxSingleQuote: true,
+        semi: false,
+        singleQuote: true,
+        trailingComma: 'es5',
+      },
+    ],
   },
 }
