@@ -7,7 +7,7 @@
 #### 1. Install
 
 ```sh
-yarn add --dev eslint prettier @chrisdothtml/eslint-config
+yarn add --dev eslint @chrisdothtml/eslint-config
 ```
 
 #### 2. Use
