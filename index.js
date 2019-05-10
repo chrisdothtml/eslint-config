@@ -62,7 +62,6 @@ module.exports = {
     'no-extra-boolean-cast': 'error',
     'no-extra-parens': ['error', 'functions'],
     'no-fallthrough': 'error',
-    'no-floating-decimal': 'error',
     'no-func-assign': 'error',
     'no-global-assign': 'error',
     'no-implied-eval': 'error',
@@ -168,7 +167,6 @@ module.exports = {
     ],
     semi: ['error', 'never'],
     'semi-spacing': ['error', { before: false, after: true }],
-    'space-before-blocks': ['error', 'always'],
     'space-in-parens': ['error', 'never'],
     'space-unary-ops': ['error', { words: true, nonwords: false }],
     'spaced-comment': [
