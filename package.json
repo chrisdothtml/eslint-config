@@ -1,6 +1,6 @@
 {
   "name": "@chrisdothtml/eslint-config",
-  "version": "0.1.5-0",
+  "version": "0.1.5",
   "description": "My personal linting preferences",
   "main": "index.js",
   "dependencies": {
