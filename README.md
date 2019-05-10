@@ -2,20 +2,9 @@
 
 > My personal linting preferences
 
-## Setup
-
-#### 1. Install
+## Use
 
 ```sh
-yarn add --dev eslint @chrisdothtml/eslint-config
-```
-
-#### 2. Use
-
-**.eslintrc**
-
-```json
-{
-  "extends": "@chrisdothtml"
-}
+yarn add --dev eslint @chrisdothtml/eslint-config &&\
+printf '{\n  "root": true,\n  "extends": "@chrisdothtml"\n}\n' > .eslintrc
 ```
