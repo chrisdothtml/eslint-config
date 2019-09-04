@@ -7,6 +7,7 @@
   "dependencies": {
     "babel-eslint": "^10.0.3",
     "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-markdown": "^1.0.0",
     "eslint-plugin-node": "^9.2.0",
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-promise": "^4.2.1",

@@ -13,6 +13,7 @@ module.exports = {
   },
   plugins: [
     'import',
+    'markdown',
     'node',
     'prettier',
     'promise',
