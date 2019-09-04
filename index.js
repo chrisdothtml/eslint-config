@@ -165,7 +165,6 @@ module.exports = {
       'single',
       { avoidEscape: true, allowTemplateLiterals: true },
     ],
-    semi: ['error', 'never'],
     'semi-spacing': ['error', { before: false, after: true }],
     'space-in-parens': ['error', 'never'],
     'space-unary-ops': ['error', { words: true, nonwords: false }],
