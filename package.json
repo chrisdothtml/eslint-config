@@ -2,6 +2,7 @@
   "name": "@chrisdothtml/eslint-config",
   "version": "0.1.7",
   "description": "My personal linting preferences",
+  "license": "MIT",
   "main": "index.js",
   "dependencies": {
     "babel-eslint": "^10.0.3",
