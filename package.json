@@ -1,6 +1,6 @@
 {
   "name": "@chrisdothtml/eslint-config",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "description": "My personal linting preferences",
   "license": "MIT",
   "main": "index.js",
